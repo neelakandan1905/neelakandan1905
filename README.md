@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node Js Express, MEAN stack**
 
-- 👨‍💻 Know about my experiences [https://github.com/neelakandan1905/Resume/blob/main/Neelakandan_Software_Engineer_Resume.pdf](https://github.com/neelakandan1905/Resume/blob/main/Neelakandan_Software_Engineer_Resume.pdf)
+- 👨‍💻 Know about my experiences [https://github.com/neelakandan1905/neelakandan1905/blob/main/Resume/Neelakandan_Software_Engineer_Resume.jpg](Neelakandan_Software_Engineer_Resume)
 
 - 💬 Ask me about **Angular, Springboot Java, NodeJS, MongoDB & Keycloak**
 
